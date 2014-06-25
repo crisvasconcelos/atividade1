@@ -101,4 +101,18 @@ fieldset legend { font: bold 14px verdana, arial, sans-serif;
  label, input { width: 150px;
  }
 
+ul {
+	list-style: circle;
+}
+
+.inlineUl li { display: inline; }
+dl {
+	padding: 10px;
+	border: 1px solid black;
+}
+dt { font-weight: bold;
+}
+dd {
+	background-color: #CCC;
+}
 
