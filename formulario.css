@@ -1,0 +1,20 @@
+fieldset {
+       width: 650px;
+       border: none; }
+
+fieldset legend { font: bold 14px verdana, arial, sans-serif;
+  color: #14077F;}
+
+ label {
+   display: inline-block;
+   font: 12px verdana, arial,sans-serif;
+   width: 200px;
+   margin: 10px;
+ }
+ 
+ label, input { width: 150px;
+ }
+
+body {
+	background: pink;
+}
